@@ -1,0 +1,11 @@
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\obj\Debug\netcoreapp3.1\passe-compose-imparfait.csprojAssemblyReference.cache
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\obj\Debug\netcoreapp3.1\passe-compose-imparfait.AssemblyInfoInputs.cache
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\obj\Debug\netcoreapp3.1\passe-compose-imparfait.AssemblyInfo.cs
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\bin\Debug\netcoreapp3.1\passe-compose-imparfait.exe
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\bin\Debug\netcoreapp3.1\passe-compose-imparfait.deps.json
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\bin\Debug\netcoreapp3.1\passe-compose-imparfait.runtimeconfig.json
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\bin\Debug\netcoreapp3.1\passe-compose-imparfait.runtimeconfig.dev.json
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\bin\Debug\netcoreapp3.1\passe-compose-imparfait.dll
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\bin\Debug\netcoreapp3.1\passe-compose-imparfait.pdb
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\obj\Debug\netcoreapp3.1\passe-compose-imparfait.dll
+C:\repos\passe-compose-imparfait\passe-compose-imparfait\obj\Debug\netcoreapp3.1\passe-compose-imparfait.pdb
